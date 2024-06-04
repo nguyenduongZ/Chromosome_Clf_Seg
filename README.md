@@ -2,7 +2,7 @@
 # Dataset
 # Git clone repo:
 ```
-git  https://github.com/nguyenduongZ/Chromosome_Clf_Seg.git
+git clone https://github.com/nguyenduongZ/Chromosome_Clf_Seg.git
 ```
 ## SET UP
 # Enviroment
