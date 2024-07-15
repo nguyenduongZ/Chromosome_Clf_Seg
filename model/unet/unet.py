@@ -9,6 +9,8 @@ class Unet(nn.Module):
 
         self.seg_n_classes = args.seg_n_classes
         self.init_ch = args.init_ch
+        # n1 = 64
+        # filters = [n1, n1 * 2, n1 * 4, n1 * 8]
     
         self.encoder = nn.ModuleList(
             [
